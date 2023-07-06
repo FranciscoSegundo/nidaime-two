@@ -1,4 +1,4 @@
-## Hello World 👋
+### Olá eu sou o Segundo Vale estudante de Ciência da Computação
 
 - 🔭 Estudante de Ciência da Computação ...
 - 🌱 Estudando Java ...
@@ -7,7 +7,7 @@
 
 --> A ciência e a religião não estão em desacordo. É que a ciência ainda é muito jovem para compreender.
 
-### Olá eu sou o Segundo Vale estudante de Ciência da Computação
+## Hello World :D
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
