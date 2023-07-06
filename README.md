@@ -1,13 +1,13 @@
-### Hello World 👋
+## Hello World 👋
 
-- 🔭 Estudante de Ciências da Computação ...
+- 🔭 Estudante de Ciência da Computação ...
 - 🌱 Estudando Java ...
 - 🤔 Técnico em Redes ...
 - 📍 Mossoró/RN
 
--->
+--> A ciência e a religião não estão em desacordo. É que a ciência ainda é muito jovem para compreender.
 
-## Oi eu sou o Segundo Vale estudante de tecnologia!
+### Olá eu sou o Segundo Vale estudante de Ciência da Computação
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -29,6 +29,8 @@
   
 </div>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nidaime-two&show_icons=true&theme=midnight-purple)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nidaime-two&show_icons=true&theme=midnight-purple)
 
 <br>
 
