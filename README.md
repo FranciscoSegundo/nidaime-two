@@ -9,7 +9,7 @@
 
 ### Hello World :D
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nidaime-two&show_icons=true&theme=midnight-purple) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nidaime-two&show_icons=true&theme=midnight-purple)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nidaime-two&show_icons=true&theme=midnight-purple) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nidaime-two&layout=compact&theme=midnight-purple)
 
 
 <div style="display: inline_block"><br>
