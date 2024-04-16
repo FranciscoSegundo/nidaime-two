@@ -1,11 +1,11 @@
-## Olá eu sou o Segundo Vale estudante de Ciência da Computação
+## Olá eu me chamo Francisco e sou estudante de Ciências da Computação
 
 - 🔭 Estudante de Ciência da Computação...
-- 🌱 Estudando Java...
+- 🌱 Estudando Ciência de Dados...
 - 🤔 Técnico em Redes...
 - 📍 Rio Grande do Norte
 
---> A ciência e a religião não estão em desacordo. É que a ciência ainda é muito jovem para compreender.
+--> Ciência e religião não estão em desacordo. A ciência é simplesmente jovem demais para entender.
 
 ### Hello World :D
 
