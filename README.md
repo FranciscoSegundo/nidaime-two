@@ -5,7 +5,7 @@
 - 🤔 Técnico em Redes...
 - 📍 Rio Grande do Norte
 
---> Ciência e religião não estão em desacordo. A ciência é simplesmente jovem demais para entender.
+--> A ciência e religião não estão em desacordo. A ciência é simplesmente jovem demais para entender.
 
 ### Hello World :D
 
