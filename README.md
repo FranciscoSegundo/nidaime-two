@@ -1,5 +1,7 @@
 ## Olá eu me chamo Francisco e sou estudante de Ciências da Computação
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=CB0000&random=false&width=435&lines=Segundo+Vale)](https://git.io/typing-svg)
+
 - 🌱 Estudando Ciência de Dados...
 - 🤔 Técnico em Redes...
 - 📍 Rio Grande do Norte
