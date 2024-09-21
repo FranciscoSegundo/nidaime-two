@@ -1,15 +1,6 @@
-## Olá eu me chamo Francisco e sou estudante de Ciências da Computação
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=CB0000&random=false&width=435&lines=GE+NI+U+S)](https://git.io/typing-svg)
-
-- 🌱 Estudando Ciência de Dados...
-- 🤔 Técnico em Redes...
-- 📍 Rio Grande do Norte
-
---> A ciência e religião não estão em desacordo. A ciência é simplesmente jovem demais para entender.
-
-### Hello World :D
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nidaime-two&show_icons=true&theme=midnight-purple) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nidaime-two&layout=compact&theme=midnight-purple)
 
