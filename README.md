@@ -78,10 +78,10 @@ const francisco = {
 
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nidaime-two&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nidaime-two&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=valesecond&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valesecond&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF"/>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=nidaime-two&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF)
+![GitHub Streak](https://streak-stats.demolab.com/?user=valesecond&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF)
 
 </div>
 
@@ -133,7 +133,7 @@ const francisco = {
 
 <div align="center">
   
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nidaime-two&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=FF6B6B&point=00D9FF)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=valesecond&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=FF6B6B&point=00D9FF)
 
 </div>
 
@@ -158,8 +158,8 @@ const francisco = {
 
 ### 💭 *"A melhor forma de prever o futuro é criá-lo"* 🚀
 
-![Profile Views](https://komarev.com/ghpvc/?username=nidaime-two&color=00D9FF&style=for-the-badge&label=VISITANTES)
-[![GitHub followers](https://img.shields.io/github/followers/nidaime-two?style=for-the-badge&color=00D9FF&labelColor=0D1117)](https://github.com/nidaime-two?tab=followers)
+![Profile Views](https://komarev.com/ghpvc/?username=valesecond&color=00D9FF&style=for-the-badge&label=VISITANTES)
+[![GitHub followers](https://img.shields.io/github/followers/valesecond?style=for-the-badge&color=00D9FF&labelColor=0D1117)](https://github.com/valesecond?tab=followers)
 
 ⭐ **Se você gostou dos meus projetos, considere dar uma estrela!** ⭐
 
