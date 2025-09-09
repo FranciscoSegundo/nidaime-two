@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=900&height=140&lines=Desenvolvedor+Full+Stack+%F0%9F%9A%80;Transformando+Ideias+em+Realidade+Digital+%F0%9F%92%BB;Construindo+o+Futuro+com+Clean+Code+%F0%9F%8C%9F;Especialista+em+React+%7C+Django+%7C+TypeScript+%E2%9A%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=900&height=140&lines=Desenvolvedor+Full+Stack+%F0%9F%9A%80;Transformando+Ideias+em+Realidade+Digital+%F0%9F%92%BB;Construindo+o+Futuro+com+Clean+Code+%F0%9F%8C%9F)](https://git.io/typing-svg)
 
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px">
 
@@ -17,18 +17,8 @@
 🎯 **Desenvolvedor Full Stack** de 23 anos, apaixonado por criar experiências digitais excepcionais. Especialista em arquiteturas modernas e desenvolvimento de aplicações escaláveis que impactam milhares de usuários.
 
 ```typescript
-interface Developer {
-  name: string;
-  age: number;
-  role: string;
-  location: string;
-  languages: string[];
-  specialties: string[];
-  currentMission: string;
-  philosophy: string;
-}
 
-const francisco: Developer = {
+const francisco = {
   name: "Francisco Fernandes do Vale Segundo",
   age: 23,
   role: "Full Stack Developer",
@@ -88,103 +78,6 @@ const francisco: Developer = {
 <img width="49%" height="195px" src="https://streak-stats.demolab.com/?user=valesecond&theme=dark&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak" />
 
 <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/wakatime?username=valesecond&hide_border=true&title_color=00D9FF&text_color=c9d1d9&bg_color=0d1117" />
-
-</div>
-
-## 🎯 Projetos Públicos em Destaque
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" height="3" />
-</div>
-
-<div align="center">
-
-### 🚀 **Principais Repositórios**
-*Criações que demonstram minha expertise técnica*
-
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80" />
-
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">🔥 Frontend & Full Stack</h3>
-<div align="center">
-
-[![E-Commerce React](https://github-readme-stats.vercel.app/api/pin/?username=valesecond&repo=ecommerce-react-app&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D9FF&border_radius=15)](https://github.com/valesecond/ecommerce-react-app)
-
-[![Task Manager Pro](https://github-readme-stats.vercel.app/api/pin/?username=valesecond&repo=task-manager-pro&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D9FF&border_radius=15)](https://github.com/valesecond/task-manager-pro)
-
-[![Social Media Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=valesecond&repo=social-dashboard&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D9FF&border_radius=15)](https://github.com/valesecond/social-dashboard)
-
-</div>
-</td>
-<td width="50%">
-<h3 align="center">⚡ Backend & APIs</h3>
-<div align="center">
-
-[![Django API Gateway](https://github-readme-stats.vercel.app/api/pin/?username=valesecond&repo=django-api-gateway&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D9FF&border_radius=15)](https://github.com/valesecond/django-api-gateway)
-
-[![Microservices Architecture](https://github-readme-stats.vercel.app/api/pin/?username=valesecond&repo=microservices-nodejs&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D9FF&border_radius=15)](https://github.com/valesecond/microservices-nodejs)
-
-[![Real-time Chat API](https://github-readme-stats.vercel.app/api/pin/?username=valesecond&repo=realtime-chat-api&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D9FF&border_radius=15)](https://github.com/valesecond/realtime-chat-api)
-
-</div>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<h3 align="center">🎮 Games & Creativity</h3>
-<div align="center">
-
-[![Godot RPG Game](https://github-readme-stats.vercel.app/api/pin/?username=valesecond&repo=godot-rpg-adventure&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D9FF&border_radius=15)](https://github.com/valesecond/godot-rpg-adventure)
-
-[![React Native Game](https://github-readme-stats.vercel.app/api/pin/?username=valesecond&repo=mobile-puzzle-game&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D9FF&border_radius=15)](https://github.com/valesecond/mobile-puzzle-game)
-
-</div>
-</td>
-<td width="50%">
-<h3 align="center">🧠 AI & Data Science</h3>
-<div align="center">
-
-[![ML Stock Predictor](https://github-readme-stats.vercel.app/api/pin/?username=valesecond&repo=ml-stock-predictor&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D9FF&border_radius=15)](https://github.com/valesecond/ml-stock-predictor)
-
-[![Data Visualization Tool](https://github-readme-stats.vercel.app/api/pin/?username=valesecond&repo=data-viz-dashboard&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D9FF&border_radius=15)](https://github.com/valesecond/data-viz-dashboard)
-
-</div>
-</td>
-</tr>
-</table>
-
-</div>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" height="3" />
-</div>
-<td width="50%">
-<h3 align="center">🧠 AI & Data Science</h3>
-<div align="center">
-
-[![ML Stock Predictor](https://github-readme-stats.vercel.app/api/pin/?username=valesecond&repo=ml-stock-predictor&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D9FF)](https://github.com/valesecond/ml-stock-predictor)
-
-[![Data Visualization Tool](https://github-readme-stats.vercel.app/api/pin/?username=valesecond&repo=data-viz-dashboard&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D9FF)](https://github.com/valesecond/data-viz-dashboard)
-
-</div>
-</td>
-</tr>
-</table>
-
-</div>
-
-### 💡 Ideias de Projetos para Implementar
-
-<div align="center">
-
-| 🚀 **Web Applications** | 📱 **Mobile Apps** | 🔧 **Tools & Utilities** |
-|:---|:---|:---|
-| • **Recipe Finder** - App de receitas com IA | • **Fitness Tracker** - React Native + Health APIs | • **Code Snippet Manager** - Organize códigos |
-| • **Portfolio Generator** - Cria portfolios automaticamente | • **Language Learning** - App gamificado | • **API Testing Suite** - Ferramenta para testar APIs |
-| • **Real Estate Platform** - Marketplace imobiliário | • **Expense Tracker** - Controle financeiro pessoal | • **Database Schema Visualizer** - Visualiza DBs |
-| • **Event Management System** - Gerencia eventos | • **Weather App** - Clima com mapas interativos | • **Dev Tools Collection** - Utilitários para devs |
 
 </div>
 
