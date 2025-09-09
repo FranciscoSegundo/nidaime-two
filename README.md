@@ -91,14 +91,18 @@ const francisco: Developer = {
 
 </div>
 
----
-
 ## 🎯 Projetos Públicos em Destaque
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" height="3" />
+</div>
 
 <div align="center">
 
 ### 🚀 **Principais Repositórios**
 *Criações que demonstram minha expertise técnica*
+
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80" />
 
 <table>
 <tr>
@@ -106,11 +110,11 @@ const francisco: Developer = {
 <h3 align="center">🔥 Frontend & Full Stack</h3>
 <div align="center">
 
-[![E-Commerce React](https://github-readme-stats.vercel.app/api/pin/?username=valesecond&repo=ecommerce-react-app&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D9FF)](https://github.com/valesecond/ecommerce-react-app)
+[![E-Commerce React](https://github-readme-stats.vercel.app/api/pin/?username=valesecond&repo=ecommerce-react-app&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D9FF&border_radius=15)](https://github.com/valesecond/ecommerce-react-app)
 
-[![Task Manager Pro](https://github-readme-stats.vercel.app/api/pin/?username=valesecond&repo=task-manager-pro&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D9FF)](https://github.com/valesecond/task-manager-pro)
+[![Task Manager Pro](https://github-readme-stats.vercel.app/api/pin/?username=valesecond&repo=task-manager-pro&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D9FF&border_radius=15)](https://github.com/valesecond/task-manager-pro)
 
-[![Social Media Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=valesecond&repo=social-dashboard&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D9FF)](https://github.com/valesecond/social-dashboard)
+[![Social Media Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=valesecond&repo=social-dashboard&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D9FF&border_radius=15)](https://github.com/valesecond/social-dashboard)
 
 </div>
 </td>
@@ -118,11 +122,11 @@ const francisco: Developer = {
 <h3 align="center">⚡ Backend & APIs</h3>
 <div align="center">
 
-[![Django API Gateway](https://github-readme-stats.vercel.app/api/pin/?username=valesecond&repo=django-api-gateway&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D9FF)](https://github.com/valesecond/django-api-gateway)
+[![Django API Gateway](https://github-readme-stats.vercel.app/api/pin/?username=valesecond&repo=django-api-gateway&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D9FF&border_radius=15)](https://github.com/valesecond/django-api-gateway)
 
-[![Microservices Architecture](https://github-readme-stats.vercel.app/api/pin/?username=valesecond&repo=microservices-nodejs&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D9FF)](https://github.com/valesecond/microservices-nodejs)
+[![Microservices Architecture](https://github-readme-stats.vercel.app/api/pin/?username=valesecond&repo=microservices-nodejs&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D9FF&border_radius=15)](https://github.com/valesecond/microservices-nodejs)
 
-[![Real-time Chat API](https://github-readme-stats.vercel.app/api/pin/?username=valesecond&repo=realtime-chat-api&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D9FF)](https://github.com/valesecond/realtime-chat-api)
+[![Real-time Chat API](https://github-readme-stats.vercel.app/api/pin/?username=valesecond&repo=realtime-chat-api&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D9FF&border_radius=15)](https://github.com/valesecond/realtime-chat-api)
 
 </div>
 </td>
@@ -132,12 +136,30 @@ const francisco: Developer = {
 <h3 align="center">🎮 Games & Creativity</h3>
 <div align="center">
 
-[![Godot RPG Game](https://github-readme-stats.vercel.app/api/pin/?username=valesecond&repo=godot-rpg-adventure&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D9FF)](https://github.com/valesecond/godot-rpg-adventure)
+[![Godot RPG Game](https://github-readme-stats.vercel.app/api/pin/?username=valesecond&repo=godot-rpg-adventure&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D9FF&border_radius=15)](https://github.com/valesecond/godot-rpg-adventure)
 
-[![React Native Game](https://github-readme-stats.vercel.app/api/pin/?username=valesecond&repo=mobile-puzzle-game&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D9FF)](https://github.com/valesecond/mobile-puzzle-game)
+[![React Native Game](https://github-readme-stats.vercel.app/api/pin/?username=valesecond&repo=mobile-puzzle-game&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D9FF&border_radius=15)](https://github.com/valesecond/mobile-puzzle-game)
 
 </div>
 </td>
+<td width="50%">
+<h3 align="center">🧠 AI & Data Science</h3>
+<div align="center">
+
+[![ML Stock Predictor](https://github-readme-stats.vercel.app/api/pin/?username=valesecond&repo=ml-stock-predictor&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D9FF&border_radius=15)](https://github.com/valesecond/ml-stock-predictor)
+
+[![Data Visualization Tool](https://github-readme-stats.vercel.app/api/pin/?username=valesecond&repo=data-viz-dashboard&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D9FF&border_radius=15)](https://github.com/valesecond/data-viz-dashboard)
+
+</div>
+</td>
+</tr>
+</table>
+
+</div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" height="3" />
+</div>
 <td width="50%">
 <h3 align="center">🧠 AI & Data Science</h3>
 <div align="center">
