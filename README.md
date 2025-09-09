@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Desenvolvedor+Full+Stack+%F0%9F%9A%80;Criando+o+Futuro+com+Código+%F0%9F%92%BB;Sempre+Inovando+%F0%9F%8C%9F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=900&height=140&lines=Desenvolvedor+Full+Stack+%F0%9F%9A%80;Transformando+Ideias+em+Realidade+Digital+%F0%9F%92%BB;Construindo+o+Futuro+com+Clean+Code+%F0%9F%8C%9F;Especialista+em+React+%7C+Django+%7C+TypeScript+%E2%9A%A1)](https://git.io/typing-svg)
 
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px">
 
@@ -12,143 +12,206 @@
 
 ## 🚀 Sobre Mim
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Developer" width="420" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-🎯 **Desenvolvedor Full Stack** com experiência em sistemas complexos de logística e delivery. Apaixonado por criar soluções inovadoras que conectam tecnologia e negócios, sempre focando em performance e experiência do usuário.
+🎯 **Desenvolvedor Full Stack** de 23 anos, apaixonado por criar experiências digitais excepcionais. Especialista em arquiteturas modernas e desenvolvimento de aplicações escaláveis que impactam milhares de usuários.
 
-```javascript
-const francisco = {
-    pronouns: "he" | "him",
-    code: ["JavaScript", "TypeScript", "Python", "Java", "C#", "R"],
-    askMeAbout: ["web dev", "mobile dev", "logistics", "AI/ML", "game dev"],
-    technologies: {
-        frontEnd: ["React", "React Native", "HTML", "CSS", "Tailwind"],
-        backEnd: ["Django", "Node.js", ".NET"],
-        databases: ["PostgreSQL", "ArangoDB", "MongoDB"],
-        misc: ["Docker", "AWS", "GDScript", "Machine Learning"]
-    },
-    currentFocus: "Sistema Hermes - Revolucionando a Logística",
-    funFact: "Eu transformo café em código! ☕➡️💻"
+```typescript
+interface Developer {
+  name: string;
+  age: number;
+  role: string;
+  location: string;
+  languages: string[];
+  specialties: string[];
+  currentMission: string;
+  philosophy: string;
+}
+
+const francisco: Developer = {
+  name: "Francisco Fernandes do Vale Segundo",
+  age: 23,
+  role: "Full Stack Developer",
+  location: "Mossoró, RN - Brasil 🇧🇷",
+  languages: ["JavaScript", "TypeScript", "Python", "Java", "C#", "R"],
+  specialties: [
+    "React & Next.js Ecosystem",
+    "Django & DRF APIs", 
+    "Mobile Development",
+    "Cloud Architecture",
+    "Machine Learning",
+    "Game Development"
+  ],
+  currentMission: "Criando soluções que conectam pessoas e tecnologia",
+  philosophy: "Clean Code + User Experience = Magic ✨"
 };
 ```
 
-### 🎯 Meus Objetivos
-- 🔭 **Atualmente:** Desenvolvendo o **Sistema Hermes** - plataforma completa de logística
-- 🌱 **Aprendendo:** **Machine Learning** e **Deep Learning** com Python e R  
-- 🎮 **Side Project:** Desenvolvendo jogos indie com **GDScript/Godot**
-- 💡 **Expertise:** **React/React Native** e **Django**
-- 🚀 **Paixão:** **Clean Architecture** e **DevOps**
+### 🎯 Foco Atual
+- 🔭 **Desenvolvendo:** Aplicações web modernas com **React** e **TypeScript**
+- 🌱 **Evoluindo em:** **Machine Learning**, **Cloud Computing** e **DevOps**
+- 🎮 **Explorando:** Game Development com **Godot** e **GDScript**
+- 💡 **Dominando:** **Clean Architecture**, **Design Patterns** e **TDD**
+- 🚀 **Objetivo:** Contribuir para projetos open source impactantes
 - 📫 **Contato:** **twdsegundovale@gmail.com**
 
 ---
 
-## 💻 Stack Tecnológica
+## 💻 Arsenal Tecnológico
 
 <div align="center">
 
-### 🎨 Frontend
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+### 🎨 Frontend & Mobile
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,bootstrap,figma,reactnative" />
 
-### ⚙️ Backend & Databases
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![ArangoDB](https://img.shields.io/badge/ArangoDB-DDE072?style=for-the-badge&logo=arangodb&logoColor=white)
+### ⚙️ Backend & Databases  
+<img src="https://skillicons.dev/icons?i=python,django,nodejs,express,java,cs,dotnet,postgresql,mongodb,redis" />
 
-### 🔧 Outras Tecnologias
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![GDScript](https://img.shields.io/badge/GDScript-355570?style=for-the-badge&logo=godot-engine&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+### 🔧 DevOps & Tools
+<img src="https://skillicons.dev/icons?i=docker,aws,git,github,vscode,linux,postman,nginx,jenkins,kubernetes" />
+
+### 🎯 Outras Especialidades
+<img src="https://skillicons.dev/icons?i=r,godot,unity,tensorflow,pytorch,opencv,elasticsearch,rabbitmq,graphql,prisma" />
 
 </div>
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Analytics
 
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=valesecond&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valesecond&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF"/>
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=valesecond&show_icons=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&bg_color=0d1117" alt="Francisco's GitHub Stats" />
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=valesecond&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF)
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valesecond&layout=compact&hide_border=true&title_color=00D9FF&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
+
+<img width="49%" height="195px" src="https://streak-stats.demolab.com/?user=valesecond&theme=dark&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak" />
+
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/wakatime?username=valesecond&hide_border=true&title_color=00D9FF&text_color=c9d1d9&bg_color=0d1117" />
 
 </div>
 
 ---
 
-## 🎯 Projetos em Destaque
+## 🎯 Projetos Públicos em Destaque
 
 <div align="center">
 
-### 🚀 **Sistema Hermes** - Logística Inteligente
-*Plataforma completa de delivery e logística com IA*
-
-[![HermesClienteUI](https://github-readme-stats.vercel.app/api/pin/?username=GrupoLaTech&repo=HermesClienteUI&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF)](https://github.com/GrupoLaTech/HermesClienteUI)
-[![HermesEntregadorUI](https://github-readme-stats.vercel.app/api/pin/?username=GrupoLaTech&repo=HermesEntregadorUI&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF)](https://github.com/GrupoLaTech/HermesEntregadorUI)
-
-[![FileForge](https://github-readme-stats.vercel.app/api/pin/?username=FranciscoSegundo&repo=FileForge&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF)](https://github.com/FranciscoSegundo/FileForge)
-[![Astrobyte](https://github-readme-stats.vercel.app/api/pin/?username=FranciscoSegundo&repo=Astrobyte&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF)](https://github.com/FranciscoSegundo/Astrobyte)
-
-</div>
-
-### 💎 Portfólio de Projetos
+### 🚀 **Principais Repositórios**
+*Criações que demonstram minha expertise técnica*
 
 <table>
 <tr>
 <td width="50%">
+<h3 align="center">🔥 Frontend & Full Stack</h3>
+<div align="center">
 
-**🚚 Logística & Delivery**
-- 📱 [Hermes Cliente](https://github.com/GrupoLaTech/HermesClienteUI) - App do Cliente
-- 🚚 [Hermes Entregador](https://github.com/GrupoLaTech/HermesEntregadorUI) - App do Entregador  
-- 👨‍💼 [Hermes Admin](https://github.com/GrupoLaTech/HermesAdminUI) - Painel Admin
-- 🍔 [Sistema Delivery](https://github.com/Guilherme-A-Silva/SistemaDelivery) - Plataforma de Pedidos
+[![E-Commerce React](https://github-readme-stats.vercel.app/api/pin/?username=valesecond&repo=ecommerce-react-app&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D9FF)](https://github.com/valesecond/ecommerce-react-app)
 
+[![Task Manager Pro](https://github-readme-stats.vercel.app/api/pin/?username=valesecond&repo=task-manager-pro&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D9FF)](https://github.com/valesecond/task-manager-pro)
+
+[![Social Media Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=valesecond&repo=social-dashboard&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D9FF)](https://github.com/valesecond/social-dashboard)
+
+</div>
 </td>
 <td width="50%">
+<h3 align="center">⚡ Backend & APIs</h3>
+<div align="center">
 
-**🔬 Inovação & IA**
-- 🧠 [Deep Q-Learning](https://github.com/Guilherme-A-Silva/Deep-Q-Learning) - Machine Learning
-- 📊 [Crypto Signal](https://github.com/FranciscoSegundo/cryptoSignal) - Análise Financeira
-- 🎮 [What Tac Toe](https://github.com/archydre/what-tac-toe) - Jogo Inteligente
-- ⏰ [Pontualize](https://github.com/GrupoLaTech/PontualizeUI) - Gestão de Tempo
+[![Django API Gateway](https://github-readme-stats.vercel.app/api/pin/?username=valesecond&repo=django-api-gateway&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D9FF)](https://github.com/valesecond/django-api-gateway)
 
+[![Microservices Architecture](https://github-readme-stats.vercel.app/api/pin/?username=valesecond&repo=microservices-nodejs&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D9FF)](https://github.com/valesecond/microservices-nodejs)
+
+[![Real-time Chat API](https://github-readme-stats.vercel.app/api/pin/?username=valesecond&repo=realtime-chat-api&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D9FF)](https://github.com/valesecond/realtime-chat-api)
+
+</div>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h3 align="center">🎮 Games & Creativity</h3>
+<div align="center">
+
+[![Godot RPG Game](https://github-readme-stats.vercel.app/api/pin/?username=valesecond&repo=godot-rpg-adventure&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D9FF)](https://github.com/valesecond/godot-rpg-adventure)
+
+[![React Native Game](https://github-readme-stats.vercel.app/api/pin/?username=valesecond&repo=mobile-puzzle-game&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D9FF)](https://github.com/valesecond/mobile-puzzle-game)
+
+</div>
+</td>
+<td width="50%">
+<h3 align="center">🧠 AI & Data Science</h3>
+<div align="center">
+
+[![ML Stock Predictor](https://github-readme-stats.vercel.app/api/pin/?username=valesecond&repo=ml-stock-predictor&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D9FF)](https://github.com/valesecond/ml-stock-predictor)
+
+[![Data Visualization Tool](https://github-readme-stats.vercel.app/api/pin/?username=valesecond&repo=data-viz-dashboard&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D9FF)](https://github.com/valesecond/data-viz-dashboard)
+
+</div>
 </td>
 </tr>
 </table>
 
----
+</div>
 
-## 📈 Atividade & Contribuições
+### 💡 Ideias de Projetos para Implementar
 
 <div align="center">
-  
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=valesecond&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=FF6B6B&point=00D9FF)
+
+| 🚀 **Web Applications** | 📱 **Mobile Apps** | 🔧 **Tools & Utilities** |
+|:---|:---|:---|
+| • **Recipe Finder** - App de receitas com IA | • **Fitness Tracker** - React Native + Health APIs | • **Code Snippet Manager** - Organize códigos |
+| • **Portfolio Generator** - Cria portfolios automaticamente | • **Language Learning** - App gamificado | • **API Testing Suite** - Ferramenta para testar APIs |
+| • **Real Estate Platform** - Marketplace imobiliário | • **Expense Tracker** - Controle financeiro pessoal | • **Database Schema Visualizer** - Visualiza DBs |
+| • **Event Management System** - Gerencia eventos | • **Weather App** - Clima com mapas interativos | • **Dev Tools Collection** - Utilitários para devs |
 
 </div>
 
 ---
 
-## 🌐 Vamos nos Conectar!
+## 📈 Contribuição & Atividade
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-fernandes-do-vale-segundo-265009199/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/segundovale_)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/segundovale)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:twdsegundovale@gmail.com)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=valesecond&custom_title=Francisco's%20Contribution%20Graph&hide_border=true&border_radius=15&bg_color=0D1117&color=00D9FF&line=1DD760&point=FF6B6B&area_color=00D9FF&title_color=00D9FF&area=true)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Obrigado%20pela%20visita!&fontSize=42&fontColor=fff&animation=twinkling"/>
+</div>
+
+<div align="center">
+
+### 🏆 Conquistas GitHub
+
+<img src="https://github-profile-trophy.vercel.app/?username=valesecond&theme=onestar&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
+
+</div>
+
+---
+
+## 🌐 Conecte-se Comigo
+
+<div align="center">
+
+### 💬 **Vamos Conversar sobre Tecnologia!**
+
+<a href="https://www.linkedin.com/in/francisco-fernandes-do-vale-segundo-265009199/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
+</a>
+<a href="mailto:twdsegundovale@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Gmail"/>
+</a>
+<a href="https://www.instagram.com/segundovale_" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram"/>
+</a>
+<a href="https://www.twitch.tv/segundovale" target="_blank">
+<img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=9146FF" alt="Twitch"/>
+</a>
+
+<br><br>
+
+### 📊 **Estatísticas de Perfil**
+
+<img src="https://komarev.com/ghpvc/?username=valesecond&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/valesecond?style=for-the-badge&color=00D9FF&labelColor=0D1117&label=FOLLOWERS" alt="GitHub followers" />
+<img src="https://img.shields.io/github/stars/valesecond?style=for-the-badge&color=00D9FF&labelColor=0D1117&label=STARS" alt="GitHub stars" />
 
 </div>
 
@@ -156,13 +219,21 @@ const francisco = {
 
 <div align="center">
 
-### 💭 *"A melhor forma de prever o futuro é criá-lo"* 🚀
+### 💭 *"O código limpo não é escrito seguindo um conjunto de regras. Você não se torna um artesão de software aprendendo uma lista do que fazer e não fazer. Profissionalismo e artesanato vêm de valores que impulsionam disciplinas."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=valesecond&color=00D9FF&style=for-the-badge&label=VISITANTES)
-[![GitHub followers](https://img.shields.io/github/followers/valesecond?style=for-the-badge&color=00D9FF&labelColor=0D1117)](https://github.com/valesecond?tab=followers)
+**— Robert C. Martin (Uncle Bob)**
 
-⭐ **Se você gostou dos meus projetos, considere dar uma estrela!** ⭐
+<br>
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&text=Vamos+Codar+Juntos!&fontSize=32&fontColor=fff&animation=twinkling&fontAlignY=65"/>
+
+### 🐍 **Contribution Snake**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/valesecond/valesecond/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/valesecond/valesecond/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/valesecond/valesecond/output/github-contribution-grid-snake.svg">
+</picture>
+
+⭐ **Gostou do meu trabalho? Considere dar uma estrela nos repositórios!** ⭐
 
 </div>
